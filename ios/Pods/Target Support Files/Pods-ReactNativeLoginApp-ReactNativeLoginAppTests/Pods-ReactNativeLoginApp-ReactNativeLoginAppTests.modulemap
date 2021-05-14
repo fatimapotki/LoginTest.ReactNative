@@ -1,0 +1,6 @@
+module Pods_ReactNativeLoginApp_ReactNativeLoginAppTests {
+  umbrella header "Pods-ReactNativeLoginApp-ReactNativeLoginAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

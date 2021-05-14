@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_ReactNativeLoginApp_ReactNativeLoginAppTests : NSObject
+@end
+@implementation PodsDummy_Pods_ReactNativeLoginApp_ReactNativeLoginAppTests
+@end
